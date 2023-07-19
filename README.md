@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...ss
 - 🌱 I’m currently learning Embedded Systems.
 - 👯 I’m looking to collaborate on Embedded C, C++ OOP, RTOS and Linux projects.
 - 📫 How to reach me: https://www.linkedin.com/in/ali-hussein-1918b2192/
