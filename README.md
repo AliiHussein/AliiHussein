@@ -10,12 +10,12 @@ I am a passionate embedded software engineer looking for challenging and fruitfu
 - 👯 I’m looking to collaborate on Embedded C, C++ OOP, RTOS, and Linux projects.
 - 📫 How to reach me: https://www.linkedin.com/in/ali-hussein-1918b2192/
 
-## 📊 My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliiHussein&layout=compact&theme=radical)
+
 
 
 <!--
-
+## 📊 My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliiHussein&layout=compact&theme=radical)
 
 **AliiHussein/AliiHussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
