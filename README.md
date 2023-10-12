@@ -8,7 +8,6 @@ I am a passionate embedded software engineer looking for challenging and fruitfu
 
 - 🌱 I’m currently working on Embedded Systems projects.
 - 👯 I’m looking to collaborate on Embedded C, C++ OOP, RTOS, and Linux projects.
-- 📫 How to reach me: https://www.linkedin.com/in/ali-hussein-1918b2192/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
