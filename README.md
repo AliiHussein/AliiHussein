@@ -10,6 +10,12 @@ I am a passionate embedded software engineer looking for challenging and fruitfu
 - 👯 I’m looking to collaborate on Embedded C, C++ OOP, RTOS, and Linux projects.
 - 📫 How to reach me: https://www.linkedin.com/in/ali-hussein-1918b2192/
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ali-hussein-1918b2192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-hussein-1918b2192" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alool19988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alool19988" height="30" width="40" /></a>
+</p>
+
 
 
 
