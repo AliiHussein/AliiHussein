@@ -15,6 +15,7 @@ I am a passionate embedded software engineer looking for challenging and fruitfu
 <a href="https://www.hackerrank.com/alool19988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alool19988" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliiHussein&" alt="AliiHussein" /></p>
 
 
 
